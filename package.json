@@ -11,6 +11,7 @@
   "description": "Sanchalak is a AI task manager",
   "dependencies": {
     "concurrently": "^9.1.2",
-    "nodeman": "^1.1.2"
+    "nodeman": "^1.1.2",
+    "sanchalak": "file:"
   }
 }
